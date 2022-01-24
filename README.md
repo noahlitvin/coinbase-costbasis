@@ -1,4 +1,4 @@
-# coinbase-costbasis
+# Coinbase Cost Basis Calculator
 
 ## Project setup
 ```
